@@ -10,8 +10,6 @@ Emmanoel Felipe de Lima Barbosa - Matrícula: 43764002
 
 Edson Gomes da Silva - Matrícula: 44044992
 
-Gustavo Augusto Ferreira de Lira - Matrícula: [inserir]
-
 # Contribuição
 
 Contribuições são bem-vindas!
