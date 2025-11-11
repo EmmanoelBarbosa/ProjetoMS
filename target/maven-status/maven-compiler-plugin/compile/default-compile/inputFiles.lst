@@ -1,0 +1,14 @@
+D:\aulas  Faculdade\microserviços e apis\exercicio 2\biblioteca-project\src\main\java\com\example\biblioteca\BibliotecaApplication.java
+D:\aulas  Faculdade\microserviços e apis\exercicio 2\biblioteca-project\src\main\java\com\example\biblioteca\controller\EmprestimoController.java
+D:\aulas  Faculdade\microserviços e apis\exercicio 2\biblioteca-project\src\main\java\com\example\biblioteca\controller\UsuarioController.java
+D:\aulas  Faculdade\microserviços e apis\exercicio 2\biblioteca-project\src\main\java\com\example\biblioteca\dto\EmprestimoRequest.java
+D:\aulas  Faculdade\microserviços e apis\exercicio 2\biblioteca-project\src\main\java\com\example\biblioteca\exception\GlobalExceptionHandler.java
+D:\aulas  Faculdade\microserviços e apis\exercicio 2\biblioteca-project\src\main\java\com\example\biblioteca\model\Emprestimo.java
+D:\aulas  Faculdade\microserviços e apis\exercicio 2\biblioteca-project\src\main\java\com\example\biblioteca\model\Exemplar.java
+D:\aulas  Faculdade\microserviços e apis\exercicio 2\biblioteca-project\src\main\java\com\example\biblioteca\model\Livro.java
+D:\aulas  Faculdade\microserviços e apis\exercicio 2\biblioteca-project\src\main\java\com\example\biblioteca\model\UsuarioBiblioteca.java
+D:\aulas  Faculdade\microserviços e apis\exercicio 2\biblioteca-project\src\main\java\com\example\biblioteca\repository\EmprestimoRepository.java
+D:\aulas  Faculdade\microserviços e apis\exercicio 2\biblioteca-project\src\main\java\com\example\biblioteca\repository\ExemplarRepository.java
+D:\aulas  Faculdade\microserviços e apis\exercicio 2\biblioteca-project\src\main\java\com\example\biblioteca\repository\LivroRepository.java
+D:\aulas  Faculdade\microserviços e apis\exercicio 2\biblioteca-project\src\main\java\com\example\biblioteca\repository\UsuarioRepository.java
+D:\aulas  Faculdade\microserviços e apis\exercicio 2\biblioteca-project\src\main\java\com\example\biblioteca\service\EmprestimoService.java
